@@ -1,7 +1,7 @@
 
 # 24/7 News App
 
-This project is a 24/7 News App built with React, leveraging the [FreeNewsAPI](https://freenewsapi.org/) to fetch the latest news from around the world. The app provides real-time news updates, categorized by different topics, and offers a seamless and responsive user experience.
+This project is a 24/7 News App built with React, leveraging the [FreeNewsAPI](https://newsapi.org/) to fetch the latest news from around the world. The app provides real-time news updates, categorized by different topics, and offers a seamless and responsive user experience.
 
 ## Features
 
@@ -59,6 +59,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- [FreeNewsAPI](https://freenewsapi.org/) for providing the news data.
+- [FreeNewsAPI](https://newsapi.org/) for providing the news data.
 - React for the amazing frontend library.
 - All contributors and users for their support.
