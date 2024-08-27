@@ -3,6 +3,10 @@
 
 This project is a 24/7 News App built with React, leveraging the [FreeNewsAPI](https://newsapi.org/) to fetch the latest news from around the world. The app provides real-time news updates, categorized by different topics, and offers a seamless and responsive user experience.
 
+![Screenshot (68)](https://github.com/user-attachments/assets/937d0443-7443-4b82-bdec-71019d84c5d2)
+
+
+
 ## Features
 
 - **Real-Time News Updates**: Fetches the latest news articles 24/7 using the FreeNewsAPI.
