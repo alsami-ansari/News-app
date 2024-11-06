@@ -25,7 +25,7 @@ This project is a 24/7 News App built with React, leveraging the [FreeNewsAPI](h
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/samiansari01/News-app.git
+   git clone https://github.com/alsami-ansari/News-app.git
    ```
 2. Navigate to the project directory:
    ```bash
